@@ -1,3 +1,6 @@
 {
-  "settingsInheritedFrom": "ghc-automation-staging-parallel-9-p2/whitesource-config@main"
+    "settingsInheritedFrom": "ghc-automation-staging-parallel-9-p2/whitesource-config@main",
+    "scanSettings": {
+        "projectToken": "67ef5ca2afe64d0184b93ebf4d260b9c1c8ac1b779024632885ac3a1958d5736"
+    }
 }
